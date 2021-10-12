@@ -1,1 +1,9 @@
 reg delete HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Patches\4758749C64399713BA590E9520B4EEC8 /f
+sdf
+dsf
+sd
+fds
+f
+df
+sf
+sdfsfdsfsfdfsfsdf
